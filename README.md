@@ -50,9 +50,4 @@ HelpLine Number :
 ![Capture7](https://user-images.githubusercontent.com/75659121/151298582-ee45d2bf-0118-496f-afb1-9855f8e05325.PNG)
 
 
-About Us Screen:
-
-
-![Capture8](https://user-images.githubusercontent.com/75659121/151298623-ca3a388c-d0ab-464b-afba-f7a4d9332e75.PNG)
-
 
